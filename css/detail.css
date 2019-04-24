@@ -1,0 +1,27 @@
+/*左侧菜单*/
+.left_nav{ z-index: 999;width: 190px; height: 480px; text-align: left; background: #cb3e25; float: left; position: relative; display: none;}
+.left_nav li{ width: 190px; height: 51px; border-top: 1px solid #da5a44; border-bottom: 1px solid #b82f17;}
+.itemTit{ width: 160px; height: 40px; margin: 5px 0 0 15px; text-indent: 40px; line-height: 21px;}
+.itemTit h4 a{ color: #fff; font-size: 13px; font-weight:100;}
+.itemTit p a{color: #eca598; font-size: 12px;}
+.itemCon{width: 340px; height: 460px; padding: 20px 10px 0 20px; position: absolute; top: 0px; left: 190px; background: #fff; z-index: 999; opacity: 0.9; display: none;}
+.itemCon div{ border-bottom: 1px dashed #ccc; padding-bottom: 10px;}
+.itemCon h3{line-height: 30px; font-size: 13px;}
+.itemCon p a{ color: #999; line-height: 20px; font-size: 12px;}
+
+.main{ width: 1190px; margin: 0 auto;position: relative;}
+.mainTitle{ width: 400px; height: 51px; line-height: 51px; float: left; position: absolute; top: 0; left: 0;}
+.goodsInfo{ width: 1190px; height: 515px; position: absolute; top: 51px; left: 0;}
+.goodsPic{ width: 354px; height: 515px; float: left; position: relative;}
+.bigPic{ width: 350px; height: 350px; border: 1px solid #ccc; position: relative;}
+.bigPic img{ position: absolute; top: 0; left: 0; display: none;}
+.picIcon li{ width: 54px; height: 54px; border: 1px solid #ccc; float: left; margin: 2px;}
+.superBig{ width: 200px; height: 200px; overflow: hidden; position:absolute; top: 0; left: 350px;}
+.superBig img{ display: none; position: absolute; }
+.select {
+				width: 72px;
+				height: 72px;
+				position: absolute;
+				background: rgba(255, 0, 0, 0.3);
+				display: none;
+			}

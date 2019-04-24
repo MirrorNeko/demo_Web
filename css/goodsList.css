@@ -1,0 +1,27 @@
+/*左侧菜单*/
+.left_nav{ z-index: 999;width: 190px; height: 480px; text-align: left; background: #cb3e25; float: left; position: relative; display: none;}
+.left_nav li{ width: 190px; height: 51px; border-top: 1px solid #da5a44; border-bottom: 1px solid #b82f17;}
+.itemTit{ width: 160px; height: 40px; margin: 5px 0 0 15px; text-indent: 40px; line-height: 21px;}
+.itemTit h4 a{ color: #fff; font-size: 13px; font-weight:100;}
+.itemTit p a{color: #eca598; font-size: 12px;}
+.itemCon{width: 340px; height: 460px; padding: 20px 10px 0 20px; position: absolute; top: 0px; left: 190px; background: #fff; z-index: 999; opacity: 0.9; display: none;}
+.itemCon div{ border-bottom: 1px dashed #ccc; padding-bottom: 10px;}
+.itemCon h3{line-height: 30px; font-size: 13px;}
+.itemCon p a{ color: #999; line-height: 20px; font-size: 12px;}
+
+.main{ width: 1190px; margin: 0 auto;position: relative;}
+.main1{ width: 218px; float: left;}
+.fenlei{ width: 200px; height: 51px; line-height: 51px; position: absolute; top: 0px; left: 0;}
+.navagition{ width: 218px; position: absolute; top: 51px; left: 0;}
+.navagition li{ width: 218px;  font-size: 13px;background: #f7f7f7; border: 1px solid #ccc; border-top: none; overflow: hidden;}
+.navagition li span{ display: inline-block; width: 180px; height: 31px; float: left; text-indent: 20px; line-height: 31px;}
+.navagition li b{ display: inline-block; width: 16px; line-height: 16px; float: right; margin: 8px 13px 0 0; color: #fff; text-align: center;height: 16px; background: #d3d3d3; font-size: 15px;}
+.navagition li b:hover{ cursor: pointer;}
+.listCon{ width: 208px; background: #fff; padding-left: 10px;display: none; border: 1px solid #ccc; border-top: none;clear: both;}
+.listCon div{ border-bottom: 1px dashed #ccc; padding-bottom: 10px;}
+.listCon h3{line-height: 30px; font-size: 13px; font-weight: 100; color: #CB1E00;}
+.listCon p a{ color: #999; line-height: 20px; display: inline-block; font-size: 12px; text-align: left;}
+
+.main2{ width:  950px; float: right; margin-left: 20px; margin-top: 51px;}
+.navaaa{ margin-top: 10px;}
+.allgoods{ width: 950px; min-height: 600px;}

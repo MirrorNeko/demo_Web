@@ -1,0 +1,16 @@
+.forgetPsw{ width: 1280px; height: 760px; margin: 0 auto; overflow:hidden;background: url(../images/rs-bk.jpg) no-repeat;}
+.forUl{ width: 800px; height: 34px; margin: 0 auto; padding: 0 100px; margin-bottom: 50px;border-bottom: 2px solid #999; }
+.forUl li{ float: left; width: 200px; text-align: center;color: #999; line-height: 34px; font-size: 16px; }
+.forUl li span{ display: inline-block; width: 30px; height: 30px; border-radius: 15px; line-height: 30px; background: #999; margin-right: 5px; color: #fff; font-weight: bold; text-align: center; }
+.forUl .active{ border-bottom: 2px solid #CB1E00; color: #CB1E00;}
+.forUl .active span{ background: #CB1E00;}
+
+.forDiv{ width: 420px;margin: 0 auto; position: relative;}
+.forDiv>div{ position: absolute; top: 0; left: 0; display: none;}
+.forDiv .checked1{ display: block;}
+.forDiv label{ display: inline-block;width: 100px; text-align: right; height: 42px; line-height: 42px;}
+.forDiv input{ height: 40px; border: 1px solid #ccc; text-indent: 4px;margin-left: 10px; margin-bottom: 39px;}
+.checkbox input{ width: 113px;}
+.checkbox span{ display: inline-block; width: 84px; height: 28px; text-align: center; background: #ccc;line-height: 28px; font-size: 16px;}
+
+.nextBtn{ width: 120px; height: 40px; background: #CB1E00; margin-left: 105px;color: #fff; font-size: 15px; text-align: center; line-height: 40px; border: none; border-radius: 3px; }

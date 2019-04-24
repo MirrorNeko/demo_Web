@@ -1,0 +1,12 @@
+.regSuccess{ width: 1280px; height: 905px; margin: 0 auto; overflow:hidden;background: url(../images/rs-bk.jpg) no-repeat;}
+.suc{ width: 420px; height: 141px; margin: 0 auto; background: url(../images/suIcon.jpg) left 22px no-repeat; overflow: hidden;}
+.suc p{ width: 329px; height: 64px; margin-left: 92px; line-height: 22px; margin-top: 22px;}
+.suc a{ display: block; width: 120px; height: 40px; margin-left: 92px; background: #e83917; color: #fff; font-weight: 600; text-align: center; font-size: 15px;line-height: 40px; border-radius: 3px;}
+.sucPic{ width: 600px; height: 343px; margin: 0 auto;}
+.checkemail{ width: 600px; height: 44px; font-size: 13px;border: 1px solid #ccc; margin: 40px auto; line-height: 44px; text-indent: 10px;}
+.checkemail span{ color: #E02200;}
+.checkbox{ width: 600px; height: 90px; margin: 0 auto;}
+.checkbox h4{ width: 600px; height: 34px; font-weight:100;text-align: center; background: url(../images/sucCheck.jpg) left bottom no-repeat; }
+.checkbox div{ width: 570px; height: 42px; margin-top: 9px; padding-left: 30px;}
+.checkbox div input{ width: 290px; height: 40px; border: 1px solid #ccc; font-size: 15px;}
+.checkbtn{ width: 128px; height: 39px; border: 1px solid #d9d9d9; margin-left: 5px;background: url(../images/sucBtn.jpg) repeat-x;}

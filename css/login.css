@@ -1,0 +1,18 @@
+
+.login_con{ width: 870px; height: 620px; margin: 0 auto; }
+.login_form{ width: 290px; height: 324px; float: right; padding: 10px 40px;border: 1px solid #ccc; border-top: 2px solid #ea3918;}
+.login_form h4{ margin-bottom: 10px;font-size: 20px; line-height: 44px; font-weight: 100; width: 80px; height: 44px; float: left;}
+.register{ width: 80px;height: 15px; float: right; color: #999; margin-top: 15px;}
+
+input{ display: block; border: none; margin-bottom:24px;}
+.username{ width: 282px; height: 32px; background: url(../images/username.jpg) no-repeat; text-indent: 40px;}
+.psw{ width: 282px; height: 32px; background: url(../images/psw.jpg) no-repeat; text-indent: 40px;}
+.checkcode{ width: 108px; height: 30px; border: 1px solid #dedede; float: left;}
+.getcode{ width: 140px; height: 30px; float: left; overflow: hidden; }
+.getcode span{ display: inline-block; width: 85px; height: 30px; font-size: 26px; line-height: 30px;float: left;background: url(../images/4-5.jpg); margin-left: 5px;}
+.getcode a{ display: inline-block; width: 40px; height: 30px; color: #999; line-height: 30px; float: right;}
+
+.forgetpsw{ display:block; float:right; width: 65px; height: 21px; line-height: 21px; margin-top: 23px; color: #999;}
+.loginbtn{ width: 290px; height: 40px; background: #e83917; font-size: 19px; color: #fff; line-height: 40px; text-align: center; border-radius: 3px; border: none;}
+
+.otherway{ width: 290px; height: 28px; line-height: 28px; margin-top: 15px; font-size: 13px; color: #999;}
